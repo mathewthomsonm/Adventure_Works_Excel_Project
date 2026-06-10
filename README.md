@@ -33,7 +33,7 @@ End-to-end Sales Analytics project built using Excel, SQL, Power BI, and Tableau
 ![Power BI Dashboard](Screenshots/PowerBI_Dashboard.png)
 
 ### Tableau Dashboard
-![Tableau Dashboard](Screenshots/Tableau_Dashboard.png)
+![Tableau Dashboard](Tableau_Dashboard.png)
 
 ## Business Insights
 - Identified top-performing products and categories
