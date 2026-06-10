@@ -16,7 +16,7 @@ Pivot Tables,
 Pivot Charts, 
 Power Pivot, 
 Slicers, 
-KPI Cards, 
+KPI Cards
 
 Key KPIs : 
 Total Revenue, 
@@ -24,17 +24,17 @@ Total Orders,
 Total Customers, 
 Average Order Value, 
 Top Products, 
-Sales by Region, 
+Sales by Region
 
 Dashboard Features : 
 Interactive filters using slicers, 
 Revenue trend analysis, 
 Product category performance, 
 Regional sales analysis, 
-Customer insights, 
+Customer insights
 
 Dataset : 
 Adventure Works Sales Dataset
 
-Author
+Author : 
 Mathew Thomson M
