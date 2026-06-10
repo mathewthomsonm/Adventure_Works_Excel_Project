@@ -27,7 +27,7 @@ End-to-end Sales Analytics project built using Excel, SQL, Power BI, and Tableau
 
 ## Dashboard Screenshots
 ### Excel Dashboard
-![Excel Dashboard](Screenshots/Excel_Dashboard.png)
+![Excel Dashboard](Dashboard_Adventure_Works.png)
 
 ### Power BI Dashboard
 ![Power BI Dashboard](Screenshots/PowerBI_Dashboard.png)
