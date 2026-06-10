@@ -1,40 +1,45 @@
-Adventure Works Sales Dashboard
+# Adventure Works Analytics Project
 
-Project Overview :
-This project analyzes Adventure Works sales data using Microsoft Excel to generate business insights and interactive dashboards.
+## Project Overview
+End-to-end Sales Analytics project built using Excel, SQL, Power BI, and Tableau to analyze sales performance, customer behavior, product trends, and regional performance.
 
-Objectives :
-Analyze sales performance, 
-Track revenue trends, 
-Identify top-performing products, 
-Evaluate customer purchasing behavior, 
-Monitor regional sales performance
+## Tools & Technologies
+- Microsoft Excel
+- SQL
+- Power BI
+- Tableau
 
-Tools Used : 
-Microsoft Excel, 
-Pivot Tables, 
-Pivot Charts, 
-Power Pivot, 
-Slicers, 
-KPI Cards
+## Project Workflow
+1. Data Cleaning & Preparation
+2. SQL Data Analysis
+3. Excel Dashboard Development
+4. Power BI Dashboard Creation
+5. Tableau Dashboard Development
+6. Business Insights Generation
 
-Key KPIs : 
-Total Revenue, 
-Total Orders, 
-Total Customers, 
-Average Order Value, 
-Top Products, 
-Sales by Region
+## Key KPIs
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Top Products
+- Sales by Region
 
-Dashboard Features : 
-Interactive filters using slicers, 
-Revenue trend analysis, 
-Product category performance, 
-Regional sales analysis, 
-Customer insights
+## Dashboard Screenshots
+### Excel Dashboard
+![Excel Dashboard](Screenshots/Excel_Dashboard.png)
 
-Dataset : 
-Adventure Works Sales Dataset
+### Power BI Dashboard
+![Power BI Dashboard](Screenshots/PowerBI_Dashboard.png)
 
-Author : 
+### Tableau Dashboard
+![Tableau Dashboard](Screenshots/Tableau_Dashboard.png)
+
+## Business Insights
+- Identified top-performing products and categories
+- Analyzed regional sales trends
+- Evaluated customer purchasing behavior
+- Tracked revenue growth over time
+
+## Author
 Mathew Thomson M
